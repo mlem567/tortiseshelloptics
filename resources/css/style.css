@@ -65,9 +65,13 @@ a{
 .headline{
   background-color: white;
   color: black;
+  position: absolute; right: 0;
+
+
+h4 {
   font-family: Helvetica;
   font-weight: bold;
   font-size: 2rem;
   line-height: 1.2;
-  position: absolute; right: 0;
+  padding: 1.5rem 5rem;
 }
