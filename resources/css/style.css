@@ -39,6 +39,19 @@ head {
   display: none;
 }
 
+nav span{
+  display: inline-block;
+  padding: 1rem 2rem;
+}
+
+nav{
+  text-align: right;
+}
+
+a{
+  color: white;
+}
+
 
 .main-section {
   backround: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png);
