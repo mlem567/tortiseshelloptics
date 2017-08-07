@@ -60,5 +60,14 @@ a{
   background-position: center;
   background-size: cover;
   height: 31em;
+}
 
+.headline{
+  background-color: white;
+  color: black;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.2;
+  position: absolute; right: 0;
 }
