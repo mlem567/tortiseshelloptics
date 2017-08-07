@@ -67,6 +67,8 @@ a{
   background-color: white;
   color: black;
   flex-direction: row-reverse;
+  top: 10em;
+  padding: 1.5rem 5rem;
 }
 
 
