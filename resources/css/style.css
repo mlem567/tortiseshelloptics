@@ -1,21 +1,33 @@
-.company .banner-section{
-  display: flex;
-  align-items: center;
-  padding: 12px 0 12px .5em;
-  align-content: center;
+
+body {
+  font-family: Helvetica, arial, sans-serif;
+  display: block;
 }
 
-.banner-section{
+div{
+  display: block;
+}
+
+.container{
   max-width: 960px;
-  align-content: center;
-  margin: 0 auto;
-
+  margin: auto;
 }
 
-.company{
+
+.header-section{
+  height: 31rem;
+  background-image: url("../image/glass-bg.png");
+  background-size: cover;
+  padding-top: 1rem;
+}
+
+.company-menu{
   background-color: cadetblue;
   color: white;
-  top: 1rem;
+  display: flex;
+  padding: 1rem 2rem;
+  align-items: center;
+  justify-content: space-between;
 }
 .company img{
   height: 1.5rem;
@@ -23,13 +35,42 @@
   padding-right: 1rem;
 }
 
-img {
-  border-style: none;
+.company{
+  display: flex;
+  align-items: center;
 }
 
-body {
-  font-family: Helvetica, sans-serif;
-  font-size: 1rem;
+.menu{
+  display: inline;
+  padding 0 1rem;
+}
+
+.shortMenu{
+  display: none;
+  padding: 0 1rem;
+}
+
+.flex{
+  display: flex;
+}
+
+.header-section .flex{
+  justify-content: flex-end;
+}
+
+.headline{
+  margin-top: 10rem;
+  padding 1.5rem 5rem;
+  background-color: white;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-right: -2rem;
+}
+
+.main-section.headline{
+  justify-content: flex-end;
+  margin-right: -2rem;
 }
 
 html{
@@ -46,13 +87,6 @@ nav span{
   padding: 1rem 2rem;
 }
 
-nav{
-  text-align: right;
-}
-
-a{
-  color: white;
-}
 
 
 .main-section {
