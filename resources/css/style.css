@@ -60,7 +60,7 @@ div{
 
 .headline{
   margin-top: 10rem;
-  padding 1.5rem 5rem;
+  padding: 1.5rem 5rem;
   background-color: white;
   display: inline-block;
   font-weight: bold;
@@ -75,7 +75,9 @@ div{
 
 span{
   color: white;
+  padding: 1rem 2rem;
 }
+
 html{
   font-size: 18px;
   line-height: 1.4;
