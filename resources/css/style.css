@@ -157,3 +157,29 @@ nav span{
 a{
   color: white;
 }
+
+
+@media only screen and (max-width: 960px){
+  .container{
+    max-width: 100%;
+    margin: auto;
+  }
+
+.header-section{
+  height: 22rem;
+  background-image: url("../images/glasses-bg.png");
+  background-size: cover;
+  padding-top: 0;
+}
+
+.header {
+  margin-top: 5rem;
+  display: inline-block;
+  padding: .75rem 4rem;
+  background-color: white;
+  font-size: 1.33rem;
+  margin-right: 2rem;
+}
+
+
+}
