@@ -106,7 +106,7 @@ nav span{
 .services{
   display: flex;
   text-align: center;
-  width: 5rem
+  width: 5rem;
   margin: 3rem;
   flex-direction: column;
   justify-content: space-between;
