@@ -97,3 +97,38 @@ nav span{
 .main-section .flex{
   justify-content: flex-end;
 }
+
+.services-section{
+  display: flex;
+  justify-content: center;
+}
+
+.services{
+  display: flex;
+  text-align: center;
+  width: 5rem
+  margin: 3rem;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.services img{
+  width: 5rem;
+  margin-bottom: 1rem;
+}
+
+.services img.paper-icon{
+  width: 3.5rem;
+}
+
+.info-container{
+  flex-direction: column;
+  width: 35%;
+  margin-left: 5%;
+}
+
+.info.container.flex{
+  justify-content: flex-start;
+  margin-bottom: 4rem;
+}
