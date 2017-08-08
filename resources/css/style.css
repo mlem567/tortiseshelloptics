@@ -11,12 +11,13 @@ div{
 .container{
   max-width: 960px;
   margin: auto;
+  top: 2em;
 }
 
 
 .header-section{
   height: 31rem;
-  background-image: url("../image/glass-bg.png");
+  background-image: url("../image/glasses-bg.png");
   background-size: cover;
   padding-top: 1rem;
 }
