@@ -22,7 +22,7 @@ div{
   padding-top: 1rem;
 }
 
-.company-menu{
+.logo-menu{
   background-color: cadetblue;
   color: white;
   display: flex;
@@ -30,13 +30,13 @@ div{
   align-items: center;
   justify-content: space-between;
 }
-.company img{
+.logo img{
   height: 1.5rem;
   padding-left: 2rem;
   padding-right: 1rem;
 }
 
-.company{
+.logo{
   display: flex;
   align-items: center;
 }
