@@ -93,29 +93,6 @@ nav span{
 }
 
 
-
-.main-section {
-  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/tortoiseshell-optics/resources/images/glasses-bg.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  height: 31em;
-}
-
-.headline{
-  display: flex;
-  background-color: white;
-  color: black;
-  flex-direction: row-reverse;
-  top: 10em;
-  padding: 1.5rem 5rem;
-}
-
-
-h4 {
-  font-family: Helvetica;
-  font-weight: bold;
-  font-size: 2rem;
-  line-height: 1.2;
-  padding: 1.5rem 5rem;
+.main-section .flex{
+  justify-content: flex-end;
 }
