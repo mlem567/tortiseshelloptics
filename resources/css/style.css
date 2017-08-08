@@ -148,6 +148,7 @@ nav span{
 .footer.container.flex{
   background-color: azure;
   align-items: center;
+  color: black;
 }
 
 .footer img{
