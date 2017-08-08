@@ -73,6 +73,9 @@ div{
   margin-right: -2rem;
 }
 
+span{
+  color: white;
+}
 html{
   font-size: 18px;
   line-height: 1.4;
