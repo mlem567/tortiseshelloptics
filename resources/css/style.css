@@ -45,6 +45,10 @@ div{
   padding 0 1rem;
 }
 
+li{
+  display: inline;
+}
+
 .shortMenu{
   display: none;
   padding: 0 1rem;
