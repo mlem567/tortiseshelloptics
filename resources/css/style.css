@@ -87,10 +87,11 @@ head {
   display: none;
 }
 
-nav span{
+/*nav span{
   display: inline-block;
   padding: 1rem 2rem;
 }
+*/
 
 
 .main-section .flex{
@@ -249,7 +250,7 @@ a{
   padding-right: .5rem;
 }
 
-.copyright {
+.copy {
   display: none;
 }
 
